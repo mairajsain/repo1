@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 61A3-5474
+
+ Directory of C:\Users\MH\Documents\myproject
+
+06/02/2022  10:47 AM    <DIR>          .
+06/02/2022  10:47 AM    <DIR>          ..
+06/02/2022  10:47 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  96,142,057,472 bytes free
